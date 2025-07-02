@@ -4,7 +4,7 @@
 
 ---
 ---
-![Logo exodoxa.jpg](/img/user/Logo%20exodoxa.jpg)
+
 
 ## Sobre mí
 
