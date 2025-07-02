@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/exo-doxa/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/exo-doxa/","tags":["adasdas","gardenEntry"]}
 ---
 
 ---
