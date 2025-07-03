@@ -9,7 +9,7 @@
 
 - [ensayo-cuerpos-digitales](https://ex0d0xa.netlify.app/404)
 - [ficciones-enactivas](https://ex0d0xa.netlify.app/404)
-- [proyecto-griefbots](https://ex0d0xa.netlify.app/404)
+- [proyecto-griexfbots](https://ex0d0xa.netlify.app/404)
 
 ## ¿Quién cuida este jardín?
 
