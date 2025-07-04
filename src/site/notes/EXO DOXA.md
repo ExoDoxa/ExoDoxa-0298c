@@ -2,11 +2,12 @@
 {"dg-publish":true,"permalink":"/exo-doxa/","tags":["gardenEntry"]}
 ---
 
-## **Mi narrativa viva** 🧿
-
-![Galeras 1.jpg|400](/img/user/Galeras%201.jpg)
-*San Juan de Pasto, 2025
-
+<div style="text-align: center;">
+  <img src="Galeras 1.jpg" width="400">
+</div>
+<div style="text-align: center;">
+  <p>San Juan de Pasto, 2025 </p>
+</div>
 🌱 Este es mi jardincito
 No es un museo de logros estáticos,  
 ni un catálogo de diplomas,  
@@ -34,10 +35,9 @@ mal caminado, sudado y todo.
 Y aun así,  
 algo crece.
 
-`lv`
-___
-
-¿Quién cuida este jardín?
-
-
-
+<div style="text-align: center; font-style: italic; margin-top: 25px;">
+  🌐 Aquí dejo mis senderos digitales:  
+  <a href="https://www.instagram.com/exodoxa/" target="_blank">[Instagram 📸]</a>  
+  <a href="https://www.youtube.com/@Exodoxa" target="_blank">[Youtube🎥]</a>  
+  <a href="mailto:tucorreo@ejemplo.com">[Correo✉️]</a>  
+</div>
