@@ -14,7 +14,7 @@ ni un catálogo de diplomas,
 ni una galería de mis gatitos,  
 ni una repisa de medallas digitales.
 
-Se llama _ExoDoxa_ porque busca ir más allá de la costumbre —la **doxa**—  
+Se llama _ExoDoxa_ porque busca ir más allá de la costumbre -la *doxa*-
 y adentrarse en lo que aún no ha sido explorado.
 
 Me gusta pensarlo como subir una cuesta solo para ver qué hay arriba,  
@@ -24,7 +24,7 @@ se mezclan, empujan la tierra, germinan cuando las riego con atención,
 y poco a poco, transforman todo lo que tocan.
 
 Y al mismo tiempo,  
-la forma en que subo la cuesta es chueca, desacompasada, torpe a ratos.  
+la forma en que subo la cuesta es chueca, descompensada, torpe a ratos.  
 Paro en alguna tienda, me pierdo, me devuelvo.  
 Pero igual subo.
 
