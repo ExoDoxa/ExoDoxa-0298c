@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/exo-doxa/","tags":["gardenEntry"]}
 ---
 
-![Galeras 1.jpg](/img/user/ANEXOS/Galeras%201.jpg)
+![ANEXOS/Galeras 1.jpg|300](/img/user/ANEXOS/Galeras%201.jpg)
+
 
 <div style="text-align: center;">
   <p>San Juan de Pasto, 2025 </p>
